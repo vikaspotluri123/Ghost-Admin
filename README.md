@@ -1,6 +1,7 @@
 # Ghost-Admin
 
-[![Build Status](https://travis-ci.org/TryGhost/Ghost-Admin.svg?branch=master)](https://travis-ci.org/TryGhost/Ghost-Admin) 
+[![Build Status](https://travis-ci.org/TryGhost/Ghost-Admin.svg?branch=master)](https://travis-ci.org/TryGhost/Ghost-Admin) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvikaspotluri123%2FGhost-Admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvikaspotluri123%2FGhost-Admin?ref=badge_shield)
+
 [![Coverage Status](https://coveralls.io/repos/github/TryGhost/Ghost-Admin/badge.svg)](https://coveralls.io/github/TryGhost/Ghost-Admin)
 
 This is the home of Ember.js based admin client that ships with [Ghost](https://github.com/tryghost/ghost).
@@ -16,3 +17,6 @@ Bugs and issues (even if they only affect the admin client) should be opened on 
 # Copyright & License
 
 Copyright (c) 2013-2018 Ghost Foundation - Released under the [MIT license](LICENSE). Ghost and the Ghost Logo are trademarks of Ghost Foundation Ltd. Please see our [trademark policy](https://ghost.org/trademark/) for info on acceptable usage.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvikaspotluri123%2FGhost-Admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvikaspotluri123%2FGhost-Admin?ref=badge_large)
